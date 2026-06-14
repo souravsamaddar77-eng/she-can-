@@ -38,7 +38,7 @@ As an Intern, I was responsible for:
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone <[repository-url](https://github.com/souravsamaddar77-eng/she-can-.git)>
 cd <repository-folder>
 ```
 
